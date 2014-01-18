@@ -1,0 +1,121 @@
+p   arp-scan                        - arp scanning and fingerprinting tool      
+p   arpalert                        - monitor ARP changes in ethernet networks  
+v   arpd                            -                                           
+p   arping                          - sends IP and/or ARP pings (to the MAC addr
+p   arpon                           - versatile anti ARP poisoning daemon       
+p   arptables                       - ARP table administration                  
+p   arpwatch                        - Ethernet/FDDI station activity monitor    
+v   c-sharp-2.0-compiler            -                                           
+v   c-sharp-3.0-compiler            -                                           
+v   c-sharp-4.0-compiler            -                                           
+v   c-sharp-compiler                -                                           
+p   farpd                           - Fake ARP user space daemon                
+p   fonts-arphic-bkai00mp           - "AR PL KaitiM Big5" Chinese TrueType font 
+p   fonts-arphic-bsmi00lp           - "AR PL Mingti2L Big5" Chinese TrueType fon
+p   fonts-arphic-gbsn00lp           - "AR PL SungtiL GB" Chinese TrueType font b
+p   fonts-arphic-gkai00mp           - "AR PL KaitiM GB" Chinese TrueType font by
+p   fonts-arphic-ukai               - "AR PL UKai" Chinese Unicode TrueType font
+p   fonts-arphic-uming              - "AR PL UMing" Chinese Unicode TrueType fon
+p   gnome-desktop-sharp2            - GNOME Desktop# 2.24 suite, CLI bindings fo
+p   gnome-sharp2                    - GNOME# 2.24 suite, CLI bindings for GNOME 
+p   gnome-sharp2-examples           - sample applications for GNOME# 2.24       
+p   gtk-sharp2                      - GTK# 2.10 suite, CLI bindings for GTK+    
+p   gtk-sharp2-examples             - sample applications for the GTK# 2.10 tool
+p   gtk-sharp2-gapi                 - C source parser and C# code generator for 
+p   iputils-arping                  - Tool to send ICMP echo requests to an ARP 
+p   latex-cjk-chinese-arphic-bkai00 - traditional Chinese KaiTi fonts for CJK   
+p   latex-cjk-chinese-arphic-bsmi00 - traditional Chinese KaiTi fonts for CJK   
+p   latex-cjk-chinese-arphic-gbsn00 - traditional Chinese KaiTi fonts for CJK   
+p   latex-cjk-chinese-arphic-gkai00 - traditional Chinese KaiTi fonts for CJK   
+p   libampsharp-cil-dev             - Asynchronous Messaging Protocol library fo
+p   libampsharp2.0-cil              - Asynchronous Messaging Protocol library fo
+p   libarpack++2-dev                - Object-oriented version of the ARPACK pack
+p   libarpack++2c2a                 - Object-oriented version of the ARPACK pack
+p   libarpack2                      - Fortran77 subroutines to solve large scale
+p   libarpack2-dbg                  - Fortran77 subroutines to solve large scale
+p   libarpack2-dev                  - Fortran77 subroutines to solve large scale
+p   libcarp-always-perl             - Perl module to make warn and die noisy wit
+p   libcarp-assert-more-perl        - Convenience wrappers for libcarp-assert-pe
+p   libcarp-assert-perl             - Carp::Assert - executable comments for per
+p   libcarp-clan-perl               - Perl enhancement to Carp error logging fac
+p   libcarp-clan-share-perl         - Perl module enabling sharing of Carp::Clan
+p   libcarp-datum-perl              - Debugging And Tracing Ultimate Module (for
+p   libghc-harp-dev                 - Haskell support for regexp based pattern m
+v   libghc-harp-dev-0.4-aeacd       -                                           
+p   libghc-harp-doc                 - Haskell support for regexp based pattern m
+p   libghc-harp-prof                - Haskell support for regexp based pattern m
+v   libghc-harp-prof-0.4-aeacd      -                                           
+p   libghc-hxt-charproperties-dev   - Character properties and classes for XML a
+v   libghc-hxt-charproperties-dev-9 -                                           
+p   libghc-hxt-charproperties-doc   - Character properties and classes for XML a
+p   libghc-hxt-charproperties-prof  - Character properties and classes for XML a
+v   libghc-hxt-charproperties-prof- -                                           
+p   libghc-warp-dev                 - fast, light-weight web server for WAI appl
+v   libghc-warp-dev-1.2.1.1-ff7b8   -                                           
+p   libghc-warp-doc                 - fast, light-weight web server for WAI appl
+p   libghc-warp-prof                - fast, light-weight web server for WAI appl
+v   libghc-warp-prof-1.2.1.1-ff7b8  -                                           
+p   libghc-warp-tls-dev             - SSL/TLS support for Warp                  
+v   libghc-warp-tls-dev-1.2.0.4-713 -                                           
+p   libghc-warp-tls-doc             - SSL/TLS support for Warp; documentation   
+p   libghc-warp-tls-prof            - SSL/TLS support for Warp; profiling librar
+v   libghc-warp-tls-prof-1.2.0.4-71 -                                           
+p   libghc6-harp-dev                - transitional dummy package                
+p   libghc6-harp-doc                - transitional dummy package                
+p   libghc6-harp-prof               - transitional dummy package                
+p   libgtk-sharp-beans-cil          - Supplementary CLI bindings for GTK 2.14+  
+p   libgtk-sharp-beans2.0-cil-dev   - Supplementary CLI bindings for GTK 2.14+ -
+p   libkonqsidebarplugin-dev        - konqueror sidebar plugin library developme
+p   libkonqsidebarplugin4a          - konqueror sidebar plugin library          
+p   libmono-csharp4.0-cil           - Mono.CSharp library (for CLI 4.0)         
+p   libmono-microsoft-csharp4.0-cil - Mono Microsoft.CSharp library (for CLI 4.0
+p   libmono-sharpzip2.6-cil         - Mono SharpZipLib library (for CLI 2.0)    
+p   libmono-sharpzip2.84-cil        - Mono SharpZipLib library (for CLI 2.0)    
+i A libmono-sharpzip4.84-cil        - Mono SharpZipLib library (for CLI 4.0)    
+p   libnet-arp-perl                 - module to create ARP packets and lookup fo
+p   libparpack2                     - Parallel subroutines to solve large scale 
+p   libparpack2-dbg                 - Parallel subroutines to solve large scale 
+p   libparpack2-dev                 - Parallel subroutines to solve large scale 
+p   libstarpu-1.0                   - Task scheduler for heterogeneous multicore
+p   libstarpu-dev                   - Task scheduler for heterogeneous multicore
+p   libstarpufft-1.0                - Task scheduler for heterogeneous multicore
+p   libstarpumpi-1.0                - Task scheduler for heterogeneous multicore
+p   libtest-carp-perl               - module to test your code for calls to Carp
+p   libtime-warp-perl               - module to provide control over the flow of
+p   mono-csharp-shell               - interactive C# shell                      
+p   monodoc-notify-sharp-manual     - compiled XML documentation for notify-shar
+p   parprouted                      - transparent IP (Layer 3) proxy ARP bridgin
+p   pd-earplug                      - binaural filter based on KEMAR impulse mea
+p   pearpc                          - PowerPC architecture emulator             
+p   python-starpy                   - Asterisk (AMI) protocols for Twisted Pytho
+p   python-zbarpygtk                - bar code scanner and decoder (PyGTK bindin
+p   qmidiarp                        - MIDI arpeggiator for ALSA                 
+p   qmidiarp-dbg                    - Debugging symbols for QMidiArp            
+p   rarpd                           - Reverse Address Resolution Protocol daemon
+p   roarplaylistd                   - RoarAudio PlayList Daemon (RPLD)          
+v   roarplaylistd-client            -                                           
+p   roarplaylistd-codechelper-gst   - roarplaylistd helper script for GStreamer 
+p   roarplaylistd-dbg               - RoarAudio PlayList Daemon (RPLD) (debuggin
+p   roarplaylistd-dev               - RoarAudio PlayList Daemon (RPLD) (plugin d
+p   roarplaylistd-tools             - Tools to control RoarAudio PlayList Daemon
+p   ruby-redcarpet                  - Fast, safe and extensible Markdown to (X)H
+p   solarpowerlog                   - photovoltaic data logging                 
+p   starplot                        - 3-dimensional perspective star map viewer 
+p   starpu-examples                 - Task scheduler for heterogeneous multicore
+p   starpu-tools                    - Task scheduler for heterogeneous multicore
+p   starpu-top                      - Task scheduler for heterogeneous multicore
+p   sugarplum                       - an automated and intelligent spam trap/cac
+v   swarp                           -                                           
+v   tfm-arphic-bkai00mp             -                                           
+v   tfm-arphic-bsmi00lp             -                                           
+v   tfm-arphic-gbsn00lp             -                                           
+v   tfm-arphic-gkai00mp             -                                           
+p   ttf-arphic-bkai00mp             - transitional dummy package                
+p   ttf-arphic-bsmi00lp             - transitional dummy package                
+p   ttf-arphic-gbsn00lp             - transitional dummy package                
+p   ttf-arphic-gkai00mp             - transitional dummy package                
+p   ttf-arphic-ukai                 - transitional dummy package                
+p   ttf-arphic-ukai-mbe             - transitional dummy package                
+p   ttf-arphic-uming                - transitional dummy package                
+p   ucarp                           - user-space replacement to VRRP -- automati
+p   yahtzeesharp                    - game similar to poker with dice and less m

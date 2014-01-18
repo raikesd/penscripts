@@ -1,4 +1,13 @@
 #!/bin/bash 
+#----------------------------------------------------
+#	File:	portscan.sh
+#	Author:	Donald Raikes <don.raikes@gmail.com>
+#	Date:	01/17/2014
+#
+#	Adapted from code in the book:
+#	Coding for Pentesters
+#
+#----------------------------------------------------
 #populate our variables from the arguments 
 host=$1 
 startport=$2 
@@ -8,7 +17,7 @@ stopport=$3
 #ping a device to see if it is up 
 function pingcheck 
 { 
-ping=`ping -c 1 $host | grep bytes | wc -l` 
+ping=`ping -w 1 -c 1 $host | grep bytes | wc -l` 
 if [ "$ping" -gt 1 ];
 then 
 echo "$host is up"; 
